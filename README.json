@@ -1,0 +1,140 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🌟 MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMsarXiv 2025, Paper",
+          "description": ", Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T02:37:33Z",
+            "owner": "BradyFU",
+            "repo": "Awesome-Multimodal-Large-Language-Models",
+            "stars": 17974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌟 A Survey of Unified Multimodal Understanding and Generation: Advances and ChallengesarXiv 2025, Paper",
+          "description": ", Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T02:37:33Z",
+            "owner": "BradyFU",
+            "repo": "Awesome-Multimodal-Large-Language-Models",
+            "stars": 17974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on Multimodal Large Language ModelsNSR 2024, Paper",
+          "description": ", Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T02:37:33Z",
+            "owner": "BradyFU",
+            "repo": "Awesome-Multimodal-Large-Language-Models",
+            "stars": 17974
+          }
+        }
+      ],
+      "title": "✨ Highlights of NJU-MiG"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multimodal Instruction Tuning (& Latest Works)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multimodal Hallucination"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multimodal In-Context Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multimodal Chain-of-Thought"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LLM-Aided Visual Reasoning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Foundation Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multimodal RLHF"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets of Pre-Training for Alignment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets of Multimodal Instruction Tuning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets of In-Context Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets of Multimodal Chain-of-Thought"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets of Multimodal RLHF"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Benchmarks for Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:43:32.419Z",
+    "original_repository": "BradyFU/Awesome-Multimodal-Large-Language-Models",
+    "original_repository_sha": "e8baa0bfb801b3242ca93b3140d6317cb18e67af",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Large-Language-Models",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Multimodal-Large-Language-Models with stars"
+  }
+}
