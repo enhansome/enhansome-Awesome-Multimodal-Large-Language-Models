@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-11T02:37:33Z",
+            "last_commit": "2026-08-14T01:31:10Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17974
+            "stars": 17977
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-11T02:37:33Z",
+            "last_commit": "2026-08-14T01:31:10Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17974
+            "stars": 17977
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-11T02:37:33Z",
+            "last_commit": "2026-08-14T01:31:10Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17974
+            "stars": 17977
           }
         }
       ],
@@ -130,9 +130,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T13:43:32.419Z",
+    "last_updated": "2026-08-14T13:38:19.850Z",
     "original_repository": "BradyFU/Awesome-Multimodal-Large-Language-Models",
-    "original_repository_sha": "e8baa0bfb801b3242ca93b3140d6317cb18e67af",
+    "original_repository_sha": "28b70e8e18c4ee114c0838fde37ba81779eaf744",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Large-Language-Models",
     "enhanced_repository_description": null,
     "title": "Awesome-Multimodal-Large-Language-Models with stars"
