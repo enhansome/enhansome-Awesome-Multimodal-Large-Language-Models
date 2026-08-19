@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "🔥🔥 Surveys of MLLMs | 💬 WeChat (MLLM微信交流群)\n🔥🔥 VITA Series Omni MLLMs | 💬 WeChat (VITA微信交流群)\n🔥🔥 MME Series MLLM Benchmarks\n[🍎 Project Page] [📖 Paper] [🤗 Dataset] [🏆 Leaderboard]\nTable of Contents",
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642642539,
             "language": null,
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17980
+            "stars": 17983
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642642539,
             "language": null,
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17980
+            "stars": 17983
           }
         },
         {
@@ -38,100 +40,97 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642642539,
             "language": null,
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17980
+            "stars": 17983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech InteractionNeurIPS 2025 Highlight, Paper",
+          "description": ", Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 840678954,
+            "language": "Python",
+            "last_commit": "2025-03-28T00:56:46Z",
+            "owner": "VITA-MLLM",
+            "repo": "VITA",
+            "stars": 2529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language ModelNeurIPS 2025, Paper",
+          "description": ", Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 971337989,
+            "language": "Python",
+            "last_commit": "2025-05-24T02:09:49Z",
+            "owner": "VITA-MLLM",
+            "repo": "VITA-Audio",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🌟 MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMsarXiv 2025, Paper",
+          "description": ", Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642642539,
+            "language": null,
+            "last_commit": "2026-08-14T17:17:50Z",
+            "owner": "BradyFU",
+            "repo": "Awesome-Multimodal-Large-Language-Models",
+            "stars": 17983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language ModelsNeurIPS 2025 DB Highlight, Paper",
+          "description": ", Dataset, Eval Tool, ✒️ Citation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642642539,
+            "language": null,
+            "last_commit": "2026-08-14T17:17:50Z",
+            "owner": "BradyFU",
+            "repo": "Awesome-Multimodal-Large-Language-Models",
+            "stars": 17983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video AnalysisCVPR 2025, Paper",
+          "description": ", Project, Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 809380023,
+            "language": null,
+            "last_commit": "2025-12-08T06:31:55Z",
+            "owner": "MME-Benchmarks",
+            "repo": "Video-MME",
+            "stars": 789
           }
         }
       ],
       "title": "✨ Highlights of NJU-MiG"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multimodal Instruction Tuning (& Latest Works)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multimodal Hallucination"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multimodal In-Context Learning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multimodal Chain-of-Thought"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "LLM-Aided Visual Reasoning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Foundation Models"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Evaluation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multimodal RLHF"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Others"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets of Pre-Training for Alignment"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets of Multimodal Instruction Tuning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets of In-Context Learning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets of Multimodal Chain-of-Thought"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets of Multimodal RLHF"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Benchmarks for Evaluation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:05:39.348Z",
+    "last_updated": "2026-08-19T12:08:09.059Z",
     "original_repository": "BradyFU/Awesome-Multimodal-Large-Language-Models",
+    "original_repository_id": 642642539,
     "original_repository_sha": "c0e24753e8245a51b180652f4fa359977ff84b4d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Large-Language-Models",
     "enhanced_repository_description": null,
