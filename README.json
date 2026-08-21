@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17985
+            "stars": 17987
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17985
+            "stars": 17987
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17985
+            "stars": 17987
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-03-28T00:56:46Z",
             "owner": "VITA-MLLM",
             "repo": "VITA",
-            "stars": 2530
+            "stars": 2531
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-05-24T02:09:49Z",
             "owner": "VITA-MLLM",
             "repo": "VITA-Audio",
-            "stars": 684
+            "stars": 685
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17985
+            "stars": 17987
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17985
+            "stars": 17987
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-12-08T06:31:55Z",
             "owner": "MME-Benchmarks",
             "repo": "Video-MME",
-            "stars": 789
+            "stars": 788
           }
         }
       ],
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:09:11.007Z",
+    "last_updated": "2026-08-21T13:08:45.898Z",
     "original_repository": "BradyFU/Awesome-Multimodal-Large-Language-Models",
     "original_repository_id": 642642539,
     "original_repository_sha": "c0e24753e8245a51b180652f4fa359977ff84b4d",
