@@ -143,12 +143,12 @@
                 "last_commit": "2026-08-22T15:55:42Z",
                 "owner": "cordiverse",
                 "repo": "paper",
-                "stars": 2769
+                "stars": 2802
               }
             },
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "deepseek-ai/deepseek-harness",
               "description": null,
               "children": [],
               "repo_info": {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-21T12:35:08Z",
                 "owner": "deepseek-ai",
                 "repo": "deepseek-harness",
-                "stars": 190930
+                "stars": 192924
               }
             },
             {
@@ -170,25 +170,25 @@
                 "archived": false,
                 "id": 1315929647,
                 "language": "HTML",
-                "last_commit": "2026-08-21T09:44:32Z",
+                "last_commit": "2026-08-24T19:08:37Z",
                 "owner": "QwenLM",
                 "repo": "Qwen-MM-Plugins",
-                "stars": 2765
+                "stars": 2767
               }
             },
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "QwenLM/Qwen-MM-Plugins",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1315929647,
                 "language": "HTML",
-                "last_commit": "2026-08-21T09:44:32Z",
+                "last_commit": "2026-08-24T19:08:37Z",
                 "owner": "QwenLM",
                 "repo": "Qwen-MM-Plugins",
-                "stars": 2765
+                "stars": 2767
               }
             },
             {
@@ -203,12 +203,12 @@
                 "last_commit": "2026-08-06T10:17:28Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8602
+                "stars": 8610
               }
             },
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "MoonshotAI/Kimi-K3",
               "description": null,
               "children": [],
               "repo_info": {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-08-06T10:17:28Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8602
+                "stars": 8610
               }
             },
             {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 1290513696,
                 "language": "Python",
-                "last_commit": "2026-07-27T13:09:16Z",
+                "last_commit": "2026-08-25T05:32:01Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
-                "stars": 406
+                "stars": 408
               }
             },
             {
@@ -260,10 +260,10 @@
                 "archived": false,
                 "id": 910176789,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-22T03:51:25Z",
+                "last_commit": "2026-08-25T03:29:39Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11604
+                "stars": 11613
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-17T05:17:40Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3.8",
-                "stars": 3942
+                "stars": 3950
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-08-24T06:17:31Z",
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26222
+                "stars": 26228
               }
             },
             {
@@ -368,7 +368,7 @@
                 "last_commit": "2026-08-06T10:42:43Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K2.5",
-                "stars": 2302
+                "stars": 2303
               }
             },
             {
@@ -383,12 +383,12 @@
                 "last_commit": "2026-02-03T00:34:18Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-OCR-2",
-                "stars": 3370
+                "stars": 3373
               }
             },
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "deepseek-ai/DeepSeek-OCR-2",
               "description": null,
               "children": [],
               "repo_info": {
@@ -398,7 +398,7 @@
                 "last_commit": "2026-02-03T00:34:18Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-OCR-2",
-                "stars": 3370
+                "stars": 3373
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2026-01-27T03:45:14Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-OCR",
-                "stars": 23850
+                "stars": 23849
               }
             },
             {
@@ -488,7 +488,7 @@
                 "last_commit": "2025-12-03T10:51:45Z",
                 "owner": "SenseTime-FVG",
                 "repo": "InteractiveOmni",
-                "stars": 24
+                "stars": 25
               }
             },
             {
@@ -515,10 +515,10 @@
                 "archived": false,
                 "id": 1058015331,
                 "language": "Python",
-                "last_commit": "2026-08-24T01:18:25Z",
+                "last_commit": "2026-08-25T01:16:34Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "LLaVA-OneVision-2",
-                "stars": 1192
+                "stars": 1191
               }
             },
             {
@@ -533,7 +533,7 @@
                 "last_commit": "2026-04-23T10:58:01Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3-Omni",
-                "stars": 3972
+                "stars": 3974
               }
             },
             {
@@ -548,7 +548,7 @@
                 "last_commit": "2025-09-22T01:36:48Z",
                 "owner": "OpenGVLab",
                 "repo": "InternVL",
-                "stars": 10142
+                "stars": 10143
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2026-08-24T06:17:31Z",
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26222
+                "stars": 26228
               }
             },
             {
@@ -773,7 +773,7 @@
                 "last_commit": "2026-08-19T08:49:47Z",
                 "owner": "HITsz-TMG",
                 "repo": "Awesome-Large-Multimodal-Reasoning-Models",
-                "stars": 614
+                "stars": 615
               }
             },
             {
@@ -818,7 +818,7 @@
                 "last_commit": "2026-06-24T18:12:11Z",
                 "owner": "NVlabs",
                 "repo": "Eagle",
-                "stars": 3448
+                "stars": 3453
               }
             },
             {
@@ -848,7 +848,7 @@
                 "last_commit": "2025-09-22T01:36:48Z",
                 "owner": "OpenGVLab",
                 "repo": "InternVL",
-                "stars": 10142
+                "stars": 10143
               }
             },
             {
@@ -878,12 +878,12 @@
                 "last_commit": "2025-06-12T11:03:07Z",
                 "owner": "QwenLM",
                 "repo": "Qwen2.5-Omni",
-                "stars": 4071
+                "stars": 4073
               }
             },
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "QwenLM/Qwen2.5-Omni",
               "description": null,
               "children": [],
               "repo_info": {
@@ -893,7 +893,7 @@
                 "last_commit": "2025-06-12T11:03:07Z",
                 "owner": "QwenLM",
                 "repo": "Qwen2.5-Omni",
-                "stars": 4071
+                "stars": 4073
               }
             },
             {
@@ -958,7 +958,7 @@
             },
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "baichuan-inc/Baichuan-Omni-1.5",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1073,7 +1073,7 @@
                 "last_commit": "2025-09-22T01:36:48Z",
                 "owner": "OpenGVLab",
                 "repo": "InternVL",
-                "stars": 10142
+                "stars": 10143
               }
             },
             {
@@ -1253,7 +1253,7 @@
                 "last_commit": "2026-06-24T18:12:11Z",
                 "owner": "NVlabs",
                 "repo": "Eagle",
-                "stars": 3448
+                "stars": 3453
               }
             },
             {
@@ -1328,7 +1328,7 @@
                 "last_commit": "2026-08-24T06:17:31Z",
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26222
+                "stars": 26228
               }
             },
             {
@@ -1553,7 +1553,7 @@
                 "last_commit": "2026-07-15T14:04:16Z",
                 "owner": "ATH-MaaS",
                 "repo": "Ovis",
-                "stars": 1511
+                "stars": 1512
               }
             },
             {
@@ -1643,7 +1643,7 @@
                 "last_commit": "2025-09-22T01:36:48Z",
                 "owner": "OpenGVLab",
                 "repo": "InternVL",
-                "stars": 10142
+                "stars": 10143
               }
             },
             {
@@ -1763,7 +1763,7 @@
                 "last_commit": "2024-04-24T05:01:06Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-VL",
-                "stars": 4172
+                "stars": 4173
               }
             },
             {
@@ -1808,7 +1808,7 @@
                 "last_commit": "2024-08-27T13:34:35Z",
                 "owner": "OpenMOSS",
                 "repo": "AnyGPT",
-                "stars": 882
+                "stars": 883
               }
             },
             {
@@ -1928,7 +1928,7 @@
                 "last_commit": "2024-08-12T09:52:38Z",
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25000
+                "stars": 25002
               }
             },
             {
@@ -1973,7 +1973,7 @@
                 "last_commit": "2024-11-27T09:25:57Z",
                 "owner": "01-ai",
                 "repo": "Yi",
-                "stars": 7835
+                "stars": 7836
               }
             },
             {
@@ -2018,7 +2018,7 @@
                 "last_commit": "2025-09-22T01:36:48Z",
                 "owner": "OpenGVLab",
                 "repo": "InternVL",
-                "stars": 10142
+                "stars": 10143
               }
             },
             {
@@ -2318,7 +2318,7 @@
                 "last_commit": "2024-12-03T02:58:46Z",
                 "owner": "PKU-YuanGroup",
                 "repo": "Video-LLaVA",
-                "stars": 3499
+                "stars": 3500
               }
             },
             {
@@ -2543,7 +2543,7 @@
                 "last_commit": "2024-08-12T09:52:38Z",
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25000
+                "stars": 25002
               }
             },
             {
@@ -2648,7 +2648,7 @@
                 "last_commit": "2025-05-13T09:57:47Z",
                 "owner": "NExT-GPT",
                 "repo": "NExT-GPT",
-                "stars": 3637
+                "stars": 3638
               }
             },
             {
@@ -2693,7 +2693,7 @@
                 "last_commit": "2026-05-15T07:35:59Z",
                 "owner": "InternRobotics",
                 "repo": "PointLLM",
-                "stars": 1050
+                "stars": 1051
               }
             },
             {
@@ -2918,7 +2918,7 @@
                 "last_commit": "2025-06-03T20:23:02Z",
                 "owner": "jshilong",
                 "repo": "GPT4RoI",
-                "stars": 554
+                "stars": 555
               }
             },
             {
@@ -3008,7 +3008,7 @@
                 "last_commit": "2025-07-01T18:22:15Z",
                 "owner": "OpenMotionLab",
                 "repo": "MotionGPT",
-                "stars": 1958
+                "stars": 1960
               }
             },
             {
@@ -3053,7 +3053,7 @@
                 "last_commit": "2025-08-05T01:07:25Z",
                 "owner": "mbzuai-oryx",
                 "repo": "Video-ChatGPT",
-                "stars": 1505
+                "stars": 1506
               }
             },
             {
@@ -3098,7 +3098,7 @@
                 "last_commit": "2025-06-04T15:56:12Z",
                 "owner": "microsoft",
                 "repo": "LLaVA-Med",
-                "stars": 2229
+                "stars": 2230
               }
             },
             {
@@ -3113,7 +3113,7 @@
                 "last_commit": "2023-12-19T01:55:15Z",
                 "owner": "AILab-CVC",
                 "repo": "GPT4Tools",
-                "stars": 771
+                "stars": 772
               }
             },
             {
@@ -3128,7 +3128,7 @@
                 "last_commit": "2023-06-01T19:39:49Z",
                 "owner": "yxuansu",
                 "repo": "PandaGPT",
-                "stars": 862
+                "stars": 863
               }
             },
             {
@@ -3173,7 +3173,7 @@
                 "last_commit": "2024-08-07T14:49:11Z",
                 "owner": "OptimalScale",
                 "repo": "DetGPT",
-                "stars": 784
+                "stars": 785
               }
             },
             {
@@ -3263,7 +3263,7 @@
                 "last_commit": "2026-06-02T18:14:49Z",
                 "owner": "salesforce",
                 "repo": "LAVIS",
-                "stars": 11261
+                "stars": 11260
               }
             },
             {
@@ -3293,7 +3293,7 @@
                 "last_commit": "2023-06-04T01:42:37Z",
                 "owner": "open-mmlab",
                 "repo": "Multimodal-GPT",
-                "stars": 1511
+                "stars": 1512
               }
             },
             {
@@ -3383,7 +3383,7 @@
                 "last_commit": "2024-08-12T09:52:38Z",
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25000
+                "stars": 25002
               }
             },
             {
@@ -4057,7 +4057,7 @@
                 "last_commit": "2025-07-29T13:44:13Z",
                 "owner": "microsoft",
                 "repo": "JARVIS",
-                "stars": 25204
+                "stars": 25206
               }
             },
             {
@@ -4259,7 +4259,7 @@
                 "last_commit": "2026-02-24T10:48:31Z",
                 "owner": "zeroQiaoba",
                 "repo": "AffectGPT",
-                "stars": 415
+                "stars": 416
               }
             },
             {
@@ -4274,7 +4274,7 @@
                 "last_commit": "2024-04-26T13:01:17Z",
                 "owner": "EmbodiedGPT",
                 "repo": "EmbodiedGPT_Pytorch",
-                "stars": 347
+                "stars": 348
               }
             },
             {
@@ -4349,7 +4349,7 @@
                 "last_commit": "2024-06-12T13:50:10Z",
                 "owner": "amazon-science",
                 "repo": "mm-cot",
-                "stars": 3984
+                "stars": 3985
               }
             },
             {
@@ -4536,7 +4536,7 @@
                 "last_commit": "2023-12-19T01:55:15Z",
                 "owner": "AILab-CVC",
                 "repo": "GPT4Tools",
-                "stars": 771
+                "stars": 772
               }
             },
             {
@@ -4551,7 +4551,7 @@
                 "last_commit": "2024-04-10T05:17:09Z",
                 "owner": "UCSB-AI",
                 "repo": "LayoutGPT",
-                "stars": 405
+                "stars": 406
               }
             },
             {
@@ -4626,7 +4626,7 @@
                 "last_commit": "2025-07-29T13:44:13Z",
                 "owner": "microsoft",
                 "repo": "JARVIS",
-                "stars": 25204
+                "stars": 25206
               }
             },
             {
@@ -4656,7 +4656,7 @@
                 "last_commit": "2024-01-29T21:29:37Z",
                 "owner": "cvlab-columbia",
                 "repo": "viper",
-                "stars": 1715
+                "stars": 1716
               }
             },
             {
@@ -4716,7 +4716,7 @@
                 "last_commit": "2026-06-02T18:14:49Z",
                 "owner": "salesforce",
                 "repo": "LAVIS",
-                "stars": 11261
+                "stars": 11260
               }
             },
             {
@@ -4776,7 +4776,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38613
               }
             }
           ],
@@ -4828,7 +4828,7 @@
                 "last_commit": "2026-06-02T18:14:49Z",
                 "owner": "salesforce",
                 "repo": "LAVIS",
-                "stars": 11261
+                "stars": 11260
               }
             },
             {
@@ -4903,7 +4903,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22195
+                "stars": 22193
               }
             },
             {
@@ -4948,7 +4948,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22195
+                "stars": 22193
               }
             },
             {
@@ -4963,7 +4963,7 @@
                 "last_commit": "2026-06-02T18:14:49Z",
                 "owner": "salesforce",
                 "repo": "LAVIS",
-                "stars": 11261
+                "stars": 11260
               }
             },
             {
@@ -5023,7 +5023,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22195
+                "stars": 22193
               }
             }
           ],
@@ -5315,7 +5315,7 @@
                 "last_commit": "2024-03-14T09:52:13Z",
                 "owner": "PJLab-ADG",
                 "repo": "GPT4V-AD-Exploration",
-                "stars": 302
+                "stars": 303
               }
             },
             {
@@ -6084,7 +6084,7 @@
                 "last_commit": "2025-07-01T18:22:15Z",
                 "owner": "OpenMotionLab",
                 "repo": "MotionGPT",
-                "stars": 1958
+                "stars": 1960
               }
             },
             {
@@ -6144,7 +6144,7 @@
                 "last_commit": "2025-08-05T01:07:25Z",
                 "owner": "mbzuai-oryx",
                 "repo": "Video-ChatGPT",
-                "stars": 1505
+                "stars": 1506
               }
             },
             {
@@ -6174,7 +6174,7 @@
                 "last_commit": "2025-06-04T15:56:12Z",
                 "owner": "microsoft",
                 "repo": "LLaVA-Med",
-                "stars": 2229
+                "stars": 2230
               }
             },
             {
@@ -6189,7 +6189,7 @@
                 "last_commit": "2023-12-19T01:55:15Z",
                 "owner": "AILab-CVC",
                 "repo": "GPT4Tools",
-                "stars": 771
+                "stars": 772
               }
             },
             {
@@ -6204,7 +6204,7 @@
                 "last_commit": "2024-08-07T14:49:11Z",
                 "owner": "OptimalScale",
                 "repo": "DetGPT",
-                "stars": 784
+                "stars": 785
               }
             },
             {
@@ -6219,7 +6219,7 @@
                 "last_commit": "2026-07-02T03:20:41Z",
                 "owner": "OpenGVLab",
                 "repo": "InternVideo",
-                "stars": 2366
+                "stars": 2367
               }
             },
             {
@@ -6293,7 +6293,7 @@
                 "last_commit": "2026-02-24T10:48:31Z",
                 "owner": "zeroQiaoba",
                 "repo": "AffectGPT",
-                "stars": 415
+                "stars": 416
               }
             },
             {
@@ -6308,7 +6308,7 @@
                 "last_commit": "2024-04-26T13:01:17Z",
                 "owner": "EmbodiedGPT",
                 "repo": "EmbodiedGPT_Pytorch",
-                "stars": 347
+                "stars": 348
               }
             },
             {
@@ -6501,7 +6501,7 @@
             {
               "node_type": "item",
               "title": "SciMMIR",
-              "description": "SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval Link A benchmark for multi-modal information retrieval in the science domain",
+              "description": "SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval Link  A benchmark for multi-modal information retrieval in the science domain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6922,7 +6922,7 @@
                 "last_commit": "2025-08-05T01:07:25Z",
                 "owner": "mbzuai-oryx",
                 "repo": "Video-ChatGPT",
-                "stars": 1505
+                "stars": 1506
               }
             }
           ],
@@ -6935,7 +6935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:51:47.373Z",
+    "last_updated": "2026-08-25T05:43:54.228Z",
     "original_repository": "BradyFU/Awesome-Multimodal-Large-Language-Models",
     "original_repository_id": 642642539,
     "original_repository_sha": "ab58be707f938ec8b973ace87a2812e51990b2ab",
