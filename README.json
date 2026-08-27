@@ -12,10 +12,10 @@
             "archived": false,
             "id": 642642539,
             "language": null,
-            "last_commit": "2026-08-21T16:19:20Z",
+            "last_commit": "2026-08-27T01:08:08Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17988
+            "stars": 17989
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 642642539,
             "language": null,
-            "last_commit": "2026-08-21T16:19:20Z",
+            "last_commit": "2026-08-27T01:08:08Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17988
+            "stars": 17989
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 642642539,
             "language": null,
-            "last_commit": "2026-08-21T16:19:20Z",
+            "last_commit": "2026-08-27T01:08:08Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17988
+            "stars": 17989
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 642642539,
             "language": null,
-            "last_commit": "2026-08-21T16:19:20Z",
+            "last_commit": "2026-08-27T01:08:08Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17988
+            "stars": 17989
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 642642539,
             "language": null,
-            "last_commit": "2026-08-21T16:19:20Z",
+            "last_commit": "2026-08-27T01:08:08Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17988
+            "stars": 17989
           }
         },
         {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-26T05:27:04Z",
                 "owner": "cordiverse",
                 "repo": "paper",
-                "stars": 2850
+                "stars": 2893
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-21T12:35:08Z",
                 "owner": "deepseek-ai",
                 "repo": "deepseek-harness",
-                "stars": 197123
+                "stars": 199357
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-25T07:38:04Z",
                 "owner": "QwenLM",
                 "repo": "Qwen-MM-Plugins",
-                "stars": 2777
+                "stars": 2776
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-25T07:38:04Z",
                 "owner": "QwenLM",
                 "repo": "Qwen-MM-Plugins",
-                "stars": 2777
+                "stars": 2776
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-06T10:17:28Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8628
+                "stars": 8638
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-08-06T10:17:28Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8628
+                "stars": 8638
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-25T05:32:01Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoChat3",
-                "stars": 409
+                "stars": 411
               }
             },
             {
@@ -263,7 +263,7 @@
                 "last_commit": "2026-08-25T12:46:29Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11635
+                "stars": 11653
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-17T05:17:40Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3.8",
-                "stars": 3967
+                "stars": 3986
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-08-26T09:50:07Z",
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26239
+                "stars": 26243
               }
             },
             {
@@ -383,7 +383,7 @@
                 "last_commit": "2026-02-03T00:34:18Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-OCR-2",
-                "stars": 3378
+                "stars": 3383
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2026-02-03T00:34:18Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-OCR-2",
-                "stars": 3378
+                "stars": 3383
               }
             },
             {
@@ -413,7 +413,7 @@
                 "last_commit": "2026-01-30T04:47:30Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3-VL",
-                "stars": 19845
+                "stars": 19850
               }
             },
             {
@@ -515,10 +515,10 @@
                 "archived": false,
                 "id": 1058015331,
                 "language": "Python",
-                "last_commit": "2026-08-26T01:19:25Z",
+                "last_commit": "2026-08-27T07:55:00Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "LLaVA-OneVision-2",
-                "stars": 1191
+                "stars": 1194
               }
             },
             {
@@ -533,7 +533,7 @@
                 "last_commit": "2026-04-23T10:58:01Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3-Omni",
-                "stars": 3979
+                "stars": 3981
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2026-08-26T09:50:07Z",
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26239
+                "stars": 26243
               }
             },
             {
@@ -623,7 +623,7 @@
                 "last_commit": "2026-07-21T16:03:29Z",
                 "owner": "zai-org",
                 "repo": "GLM-V",
-                "stars": 2370
+                "stars": 2372
               }
             },
             {
@@ -653,7 +653,7 @@
                 "last_commit": "2026-04-07T12:24:53Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "multimodal-search-r1",
-                "stars": 479
+                "stars": 482
               }
             },
             {
@@ -818,7 +818,7 @@
                 "last_commit": "2026-06-24T18:12:11Z",
                 "owner": "NVlabs",
                 "repo": "Eagle",
-                "stars": 3462
+                "stars": 3465
               }
             },
             {
@@ -863,7 +863,7 @@
                 "last_commit": "2025-07-15T15:48:21Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-VL",
-                "stars": 1224
+                "stars": 1225
               }
             },
             {
@@ -938,7 +938,7 @@
                 "last_commit": "2026-01-30T04:47:30Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3-VL",
-                "stars": 19845
+                "stars": 19850
               }
             },
             {
@@ -1013,7 +1013,7 @@
                 "last_commit": "2026-01-30T04:47:30Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3-VL",
-                "stars": 19845
+                "stars": 19850
               }
             },
             {
@@ -1043,7 +1043,7 @@
                 "last_commit": "2025-05-26T15:59:34Z",
                 "owner": "InternLM",
                 "repo": "InternLM-XComposer",
-                "stars": 2925
+                "stars": 2926
               }
             },
             {
@@ -1208,7 +1208,7 @@
                 "last_commit": "2026-01-30T04:47:30Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3-VL",
-                "stars": 19845
+                "stars": 19850
               }
             },
             {
@@ -1253,7 +1253,7 @@
                 "last_commit": "2026-06-24T18:12:11Z",
                 "owner": "NVlabs",
                 "repo": "Eagle",
-                "stars": 3462
+                "stars": 3465
               }
             },
             {
@@ -1328,7 +1328,7 @@
                 "last_commit": "2026-08-26T09:50:07Z",
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26239
+                "stars": 26243
               }
             },
             {
@@ -1358,7 +1358,7 @@
                 "last_commit": "2025-05-26T15:59:34Z",
                 "owner": "InternLM",
                 "repo": "InternLM-XComposer",
-                "stars": 2925
+                "stars": 2926
               }
             },
             {
@@ -1433,7 +1433,7 @@
                 "last_commit": "2026-08-24T07:11:01Z",
                 "owner": "bytedance",
                 "repo": "SALMONN",
-                "stars": 1513
+                "stars": 1515
               }
             },
             {
@@ -1478,7 +1478,7 @@
                 "last_commit": "2025-11-26T19:05:22Z",
                 "owner": "showlab",
                 "repo": "videollm-online",
-                "stars": 681
+                "stars": 682
               }
             },
             {
@@ -1673,7 +1673,7 @@
                 "last_commit": "2025-05-26T15:59:34Z",
                 "owner": "InternLM",
                 "repo": "InternLM-XComposer",
-                "stars": 2925
+                "stars": 2926
               }
             },
             {
@@ -1928,7 +1928,7 @@
                 "last_commit": "2024-08-12T09:52:38Z",
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25001
+                "stars": 25003
               }
             },
             {
@@ -1958,7 +1958,7 @@
                 "last_commit": "2025-05-26T15:59:34Z",
                 "owner": "InternLM",
                 "repo": "InternLM-XComposer",
-                "stars": 2925
+                "stars": 2926
               }
             },
             {
@@ -1973,7 +1973,7 @@
                 "last_commit": "2024-11-27T09:25:57Z",
                 "owner": "01-ai",
                 "repo": "Yi",
-                "stars": 7835
+                "stars": 7836
               }
             },
             {
@@ -2108,7 +2108,7 @@
                 "last_commit": "2024-10-22T03:51:20Z",
                 "owner": "csuhan",
                 "repo": "OneLLM",
-                "stars": 666
+                "stars": 665
               }
             },
             {
@@ -2273,7 +2273,7 @@
                 "last_commit": "2025-05-26T15:59:34Z",
                 "owner": "InternLM",
                 "repo": "InternLM-XComposer",
-                "stars": 2925
+                "stars": 2926
               }
             },
             {
@@ -2318,7 +2318,7 @@
                 "last_commit": "2024-12-03T02:58:46Z",
                 "owner": "PKU-YuanGroup",
                 "repo": "Video-LLaVA",
-                "stars": 3500
+                "stars": 3499
               }
             },
             {
@@ -2438,7 +2438,7 @@
                 "last_commit": "2024-03-05T15:56:06Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "Otter",
-                "stars": 3435
+                "stars": 3436
               }
             },
             {
@@ -2483,7 +2483,7 @@
                 "last_commit": "2024-09-02T09:07:21Z",
                 "owner": "Vision-CAIR",
                 "repo": "MiniGPT-4",
-                "stars": 25627
+                "stars": 25626
               }
             },
             {
@@ -2498,7 +2498,7 @@
                 "last_commit": "2026-08-24T07:11:01Z",
                 "owner": "bytedance",
                 "repo": "SALMONN",
-                "stars": 1513
+                "stars": 1515
               }
             },
             {
@@ -2543,7 +2543,7 @@
                 "last_commit": "2024-08-12T09:52:38Z",
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25001
+                "stars": 25003
               }
             },
             {
@@ -2603,7 +2603,7 @@
                 "last_commit": "2025-05-26T15:59:34Z",
                 "owner": "InternLM",
                 "repo": "InternLM-XComposer",
-                "stars": 2925
+                "stars": 2926
               }
             },
             {
@@ -2648,7 +2648,7 @@
                 "last_commit": "2025-05-13T09:57:47Z",
                 "owner": "NExT-GPT",
                 "repo": "NExT-GPT",
-                "stars": 3638
+                "stars": 3637
               }
             },
             {
@@ -2858,7 +2858,7 @@
                 "last_commit": "2025-01-29T11:16:02Z",
                 "owner": "wenhaochai",
                 "repo": "MovieChat",
-                "stars": 706
+                "stars": 707
               }
             },
             {
@@ -3068,7 +3068,7 @@
                 "last_commit": "2024-03-05T15:56:06Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "Otter",
-                "stars": 3435
+                "stars": 3436
               }
             },
             {
@@ -3263,7 +3263,7 @@
                 "last_commit": "2026-06-02T18:14:49Z",
                 "owner": "salesforce",
                 "repo": "LAVIS",
-                "stars": 11262
+                "stars": 11261
               }
             },
             {
@@ -3368,7 +3368,7 @@
                 "last_commit": "2024-09-02T09:07:21Z",
                 "owner": "Vision-CAIR",
                 "repo": "MiniGPT-4",
-                "stars": 25627
+                "stars": 25626
               }
             },
             {
@@ -3383,7 +3383,7 @@
                 "last_commit": "2024-08-12T09:52:38Z",
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25001
+                "stars": 25003
               }
             },
             {
@@ -3967,7 +3967,7 @@
                 "last_commit": "2024-08-31T23:11:03Z",
                 "owner": "mlfoundations",
                 "repo": "open_flamingo",
-                "stars": 4118
+                "stars": 4117
               }
             },
             {
@@ -4012,7 +4012,7 @@
                 "last_commit": "2024-03-05T15:56:06Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "Otter",
-                "stars": 3435
+                "stars": 3436
               }
             },
             {
@@ -4042,7 +4042,7 @@
                 "last_commit": "2023-12-23T03:36:42Z",
                 "owner": "lupantech",
                 "repo": "chameleon-llm",
-                "stars": 1139
+                "stars": 1140
               }
             },
             {
@@ -4057,7 +4057,7 @@
                 "last_commit": "2025-07-29T13:44:13Z",
                 "owner": "microsoft",
                 "repo": "JARVIS",
-                "stars": 25208
+                "stars": 25209
               }
             },
             {
@@ -4147,7 +4147,7 @@
                 "last_commit": "2024-08-31T23:11:03Z",
                 "owner": "mlfoundations",
                 "repo": "open_flamingo",
-                "stars": 4118
+                "stars": 4117
               }
             }
           ],
@@ -4304,7 +4304,7 @@
                 "last_commit": "2023-12-23T03:36:42Z",
                 "owner": "lupantech",
                 "repo": "chameleon-llm",
-                "stars": 1139
+                "stars": 1140
               }
             },
             {
@@ -4334,7 +4334,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34004
+                "stars": 34001
               }
             },
             {
@@ -4611,7 +4611,7 @@
                 "last_commit": "2023-12-23T03:36:42Z",
                 "owner": "lupantech",
                 "repo": "chameleon-llm",
-                "stars": 1139
+                "stars": 1140
               }
             },
             {
@@ -4626,7 +4626,7 @@
                 "last_commit": "2025-07-29T13:44:13Z",
                 "owner": "microsoft",
                 "repo": "JARVIS",
-                "stars": 25208
+                "stars": 25209
               }
             },
             {
@@ -4686,7 +4686,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34004
+                "stars": 34001
               }
             },
             {
@@ -4716,7 +4716,7 @@
                 "last_commit": "2026-06-02T18:14:49Z",
                 "owner": "salesforce",
                 "repo": "LAVIS",
-                "stars": 11262
+                "stars": 11261
               }
             },
             {
@@ -4773,10 +4773,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38624
+                "stars": 38630
               }
             }
           ],
@@ -4828,7 +4828,7 @@
                 "last_commit": "2026-06-02T18:14:49Z",
                 "owner": "salesforce",
                 "repo": "LAVIS",
-                "stars": 11262
+                "stars": 11261
               }
             },
             {
@@ -4963,7 +4963,7 @@
                 "last_commit": "2026-06-02T18:14:49Z",
                 "owner": "salesforce",
                 "repo": "LAVIS",
-                "stars": 11262
+                "stars": 11261
               }
             },
             {
@@ -4993,7 +4993,7 @@
                 "last_commit": "2024-03-18T18:10:28Z",
                 "owner": "MineDojo",
                 "repo": "MineDojo",
-                "stars": 2251
+                "stars": 2252
               }
             },
             {
@@ -5210,7 +5210,7 @@
                 "last_commit": "2024-01-27T06:41:58Z",
                 "owner": "tsb0601",
                 "repo": "MMVP",
-                "stars": 363
+                "stars": 364
               }
             },
             {
@@ -5222,10 +5222,10 @@
                 "archived": false,
                 "id": 642642539,
                 "language": null,
-                "last_commit": "2026-08-21T16:19:20Z",
+                "last_commit": "2026-08-27T01:08:08Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17988
+                "stars": 17989
               }
             },
             {
@@ -5420,7 +5420,7 @@
                 "last_commit": "2026-07-14T12:47:07Z",
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2907
+                "stars": 2908
               }
             },
             {
@@ -5537,10 +5537,10 @@
                 "archived": false,
                 "id": 642642539,
                 "language": null,
-                "last_commit": "2026-08-21T16:19:20Z",
+                "last_commit": "2026-08-27T01:08:08Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17988
+                "stars": 17989
               }
             },
             {
@@ -5600,7 +5600,7 @@
                 "last_commit": "2026-08-16T06:13:38Z",
                 "owner": "Yuliang-Liu",
                 "repo": "MultimodalOCR",
-                "stars": 886
+                "stars": 885
               }
             }
           ],
@@ -5634,10 +5634,10 @@
                 "archived": false,
                 "id": 642642539,
                 "language": null,
-                "last_commit": "2026-08-21T16:19:20Z",
+                "last_commit": "2026-08-27T01:08:08Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17988
+                "stars": 17989
               }
             },
             {
@@ -6159,7 +6159,7 @@
                 "last_commit": "2024-03-05T15:56:06Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "Otter",
-                "stars": 3435
+                "stars": 3436
               }
             },
             {
@@ -6271,7 +6271,7 @@
                 "last_commit": "2024-03-05T15:56:06Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "Otter",
-                "stars": 3435
+                "stars": 3436
               }
             }
           ],
@@ -6555,7 +6555,7 @@
                 "last_commit": "2024-01-27T06:41:58Z",
                 "owner": "tsb0601",
                 "repo": "MMVP",
-                "stars": 363
+                "stars": 364
               }
             },
             {
@@ -6822,10 +6822,10 @@
                 "archived": false,
                 "id": 642642539,
                 "language": null,
-                "last_commit": "2026-08-21T16:19:20Z",
+                "last_commit": "2026-08-27T01:08:08Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17988
+                "stars": 17989
               }
             },
             {
@@ -6935,10 +6935,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:14:10.118Z",
-    "original_repository": "BradyFU/Awesome-Multimodal-Large-Language-Models",
-    "original_repository_id": 642642539,
-    "original_repository_sha": "ab58be707f938ec8b973ace87a2812e51990b2ab",
+    "last_updated": "2026-08-27T11:28:00.596Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 642642539,
+      "language": null,
+      "last_commit": "2026-08-27T01:08:08Z",
+      "owner": "BradyFU",
+      "repo": "Awesome-Multimodal-Large-Language-Models",
+      "stars": 17989
+    },
+    "original_repository_sha": "79b3c91db6f9dece7fecc3010be9d0bb99fd9f1a",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Large-Language-Models",
     "enhanced_repository_description": null,
     "title": "Awesome-Multimodal-Large-Language-Models with stars"
