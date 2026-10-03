@@ -5,111 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "🌟 MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMsarXiv 2025, Paper",
-          "description": ", Project",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
-            "homepage": null,
-            "id": 642642539,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-10-01T02:35:51Z",
-            "open_issues": 115,
-            "owner": "BradyFU",
-            "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18042,
-            "topics": [
-              "chain-of-thought",
-              "in-context-learning",
-              "instruction-following",
-              "instruction-tuning",
-              "large-language-models",
-              "large-vision-language-model",
-              "large-vision-language-models",
-              "multi-modality",
-              "multimodal-chain-of-thought",
-              "multimodal-in-context-learning",
-              "multimodal-instruction-tuning",
-              "multimodal-large-language-models",
-              "visual-instruction-tuning"
-            ]
-          },
-          "first_seen": "2026-08-28T22:15:28.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🌟 A Survey of Unified Multimodal Understanding and Generation: Advances and ChallengesarXiv 2025, Paper",
-          "description": ", Project",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
-            "homepage": null,
-            "id": 642642539,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-10-01T02:35:51Z",
-            "open_issues": 115,
-            "owner": "BradyFU",
-            "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18042,
-            "topics": [
-              "chain-of-thought",
-              "in-context-learning",
-              "instruction-following",
-              "instruction-tuning",
-              "large-language-models",
-              "large-vision-language-model",
-              "large-vision-language-models",
-              "multi-modality",
-              "multimodal-chain-of-thought",
-              "multimodal-in-context-learning",
-              "multimodal-instruction-tuning",
-              "multimodal-large-language-models",
-              "visual-instruction-tuning"
-            ]
-          },
-          "first_seen": "2026-08-28T22:15:28.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "A Survey on Multimodal Large Language ModelsNSR 2024, Paper",
-          "description": ", Project",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
-            "homepage": null,
-            "id": 642642539,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-10-01T02:35:51Z",
-            "open_issues": 115,
-            "owner": "BradyFU",
-            "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18042,
-            "topics": [
-              "chain-of-thought",
-              "in-context-learning",
-              "instruction-following",
-              "instruction-tuning",
-              "large-language-models",
-              "large-vision-language-model",
-              "large-vision-language-models",
-              "multi-modality",
-              "multimodal-chain-of-thought",
-              "multimodal-in-context-learning",
-              "multimodal-instruction-tuning",
-              "multimodal-large-language-models",
-              "visual-instruction-tuning"
-            ]
-          },
-          "first_seen": "2026-08-28T22:15:28.776Z"
-        },
-        {
-          "node_type": "item",
           "title": "VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech InteractionNeurIPS 2025 Highlight, Paper",
           "description": ", Project",
           "children": [],
@@ -121,7 +16,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-03-28T00:56:46Z",
-            "open_issues": 59,
+            "open_issues": 57,
             "owner": "VITA-MLLM",
             "repo": "VITA",
             "stars": 2536,
@@ -153,76 +48,6 @@
             "repo": "VITA-Audio",
             "stars": 686,
             "topics": []
-          },
-          "first_seen": "2026-08-28T22:15:28.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🌟 MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMsarXiv 2025, Paper",
-          "description": ", Project",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
-            "homepage": null,
-            "id": 642642539,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-10-01T02:35:51Z",
-            "open_issues": 115,
-            "owner": "BradyFU",
-            "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18042,
-            "topics": [
-              "chain-of-thought",
-              "in-context-learning",
-              "instruction-following",
-              "instruction-tuning",
-              "large-language-models",
-              "large-vision-language-model",
-              "large-vision-language-models",
-              "multi-modality",
-              "multimodal-chain-of-thought",
-              "multimodal-in-context-learning",
-              "multimodal-instruction-tuning",
-              "multimodal-large-language-models",
-              "visual-instruction-tuning"
-            ]
-          },
-          "first_seen": "2026-08-28T22:15:28.776Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language ModelsNeurIPS 2025 DB Highlight, Paper",
-          "description": ", Dataset, Eval Tool, ✒️ Citation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
-            "homepage": null,
-            "id": 642642539,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-10-01T02:35:51Z",
-            "open_issues": 115,
-            "owner": "BradyFU",
-            "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 18042,
-            "topics": [
-              "chain-of-thought",
-              "in-context-learning",
-              "instruction-following",
-              "instruction-tuning",
-              "large-language-models",
-              "large-vision-language-model",
-              "large-vision-language-models",
-              "multi-modality",
-              "multimodal-chain-of-thought",
-              "multimodal-in-context-learning",
-              "multimodal-instruction-tuning",
-              "multimodal-large-language-models",
-              "visual-instruction-tuning"
-            ]
           },
           "first_seen": "2026-08-28T22:15:28.776Z"
         },
@@ -265,7 +90,7 @@
             {
               "node_type": "item",
               "title": "DeepSeek Harness",
-              "description": null,
+              "description": "cordiverse/paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -278,7 +103,7 @@
                 "open_issues": 0,
                 "owner": "cordiverse",
                 "repo": "paper",
-                "stars": 3003,
+                "stars": 3004,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:28.776Z"
@@ -286,7 +111,7 @@
             {
               "node_type": "item",
               "title": "deepseek-ai/deepseek-harness",
-              "description": null,
+              "description": "deepseek-ai/deepseek-harness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -295,11 +120,11 @@
                 "id": 1333065091,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T09:41:57Z",
+                "last_commit": "2026-10-03T00:01:28Z",
                 "open_issues": 0,
                 "owner": "deepseek-ai",
                 "repo": "deepseek-harness",
-                "stars": 242253,
+                "stars": 242447,
                 "topics": [
                   "ai-agents",
                   "cordis",
@@ -312,7 +137,7 @@
             {
               "node_type": "item",
               "title": "Qwen-MM-Plugins",
-              "description": null,
+              "description": "QwenLM/Qwen-MM-Plugins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -333,7 +158,7 @@
             {
               "node_type": "item",
               "title": "QwenLM/Qwen-MM-Plugins",
-              "description": null,
+              "description": "QwenLM/Qwen-MM-Plugins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -354,7 +179,7 @@
             {
               "node_type": "item",
               "title": "Kimi K3: Open Frontier Intelligence",
-              "description": null,
+              "description": "MoonshotAI/Kimi-K3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -364,10 +189,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-06T10:17:28Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8886,
+                "stars": 8889,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:28.776Z"
@@ -375,7 +200,7 @@
             {
               "node_type": "item",
               "title": "MoonshotAI/Kimi-K3",
-              "description": null,
+              "description": "MoonshotAI/Kimi-K3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -385,10 +210,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-06T10:17:28Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8886,
+                "stars": 8889,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:28.776Z"
@@ -456,7 +281,7 @@
                 "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11972,
+                "stars": 11976,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:28.776Z"
@@ -567,7 +392,7 @@
                 "open_issues": 16,
                 "owner": "QwenLM",
                 "repo": "Qwen3.8",
-                "stars": 4214,
+                "stars": 4216,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:28.776Z"
@@ -622,7 +447,7 @@
             {
               "node_type": "item",
               "title": "DeepSeek-OCR 2: Visual Causal Flow",
-              "description": null,
+              "description": "deepseek-ai/DeepSeek-OCR-2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -643,7 +468,7 @@
             {
               "node_type": "item",
               "title": "deepseek-ai/DeepSeek-OCR-2",
-              "description": null,
+              "description": "deepseek-ai/DeepSeek-OCR-2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +651,7 @@
                 "id": 1058015331,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:43:43Z",
+                "last_commit": "2026-10-03T04:09:13Z",
                 "open_issues": 64,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "LLaVA-OneVision-2",
@@ -1402,7 +1227,7 @@
             {
               "node_type": "item",
               "title": "Qwen2.5-Omni Technical Report",
-              "description": null,
+              "description": "QwenLM/Qwen2.5-Omni",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1423,7 +1248,7 @@
             {
               "node_type": "item",
               "title": "QwenLM/Qwen2.5-Omni",
-              "description": null,
+              "description": "QwenLM/Qwen2.5-Omni",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1511,7 +1336,7 @@
             {
               "node_type": "item",
               "title": "Baichuan-Omni-1.5 Technical Report",
-              "description": null,
+              "description": "baichuan-inc/Baichuan-Omni-1.5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1532,7 +1357,7 @@
             {
               "node_type": "item",
               "title": "baichuan-inc/Baichuan-Omni-1.5",
-              "description": null,
+              "description": "baichuan-inc/Baichuan-Omni-1.5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1584,7 +1409,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-03-28T00:56:46Z",
-                "open_issues": 59,
+                "open_issues": 57,
                 "owner": "VITA-MLLM",
                 "repo": "VITA",
                 "stars": 2536,
@@ -2127,7 +1952,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-03-28T00:56:46Z",
-                "open_issues": 59,
+                "open_issues": 57,
                 "owner": "VITA-MLLM",
                 "repo": "VITA",
                 "stars": 2536,
@@ -2557,7 +2382,7 @@
                 "open_issues": 86,
                 "owner": "ATH-MaaS",
                 "repo": "Ovis",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": [
                   "chatbot",
                   "llama3",
@@ -3154,7 +2979,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25055,
+                "stars": 25056,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -3253,7 +3078,7 @@
                 "open_issues": 32,
                 "owner": "01-ai",
                 "repo": "Yi",
-                "stars": 7832,
+                "stars": 7831,
                 "topics": [
                   "large-language-models"
                 ]
@@ -4162,7 +3987,7 @@
                 "open_issues": 8,
                 "owner": "apple-aiml-research",
                 "repo": "ml-ferret",
-                "stars": 8659,
+                "stars": 8657,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:28.776Z"
@@ -4210,7 +4035,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25055,
+                "stars": 25056,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -4393,7 +4218,7 @@
                 "open_issues": 81,
                 "owner": "NExT-GPT",
                 "repo": "NExT-GPT",
-                "stars": 3635,
+                "stars": 3636,
                 "topics": [
                   "chatgpt",
                   "foundation-models",
@@ -4456,7 +4281,7 @@
                 "open_issues": 113,
                 "owner": "OpenGVLab",
                 "repo": "LLaMA-Adapter",
-                "stars": 5913,
+                "stars": 5912,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:28.776Z"
@@ -4574,7 +4399,7 @@
                 "open_issues": 326,
                 "owner": "QwenLM",
                 "repo": "Qwen-VL",
-                "stars": 6725,
+                "stars": 6726,
                 "topics": [
                   "large-language-models",
                   "vision-language-model"
@@ -5554,7 +5379,7 @@
                 "open_issues": 113,
                 "owner": "OpenGVLab",
                 "repo": "LLaMA-Adapter",
-                "stars": 5913,
+                "stars": 5912,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:28.776Z"
@@ -5638,7 +5463,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25055,
+                "stars": 25056,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -5673,7 +5498,7 @@
                 "open_issues": 113,
                 "owner": "OpenGVLab",
                 "repo": "LLaMA-Adapter",
-                "stars": 5913,
+                "stars": 5912,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:15:28.776Z"
@@ -6706,10 +6531,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-29T13:44:13Z",
-                "open_issues": 4150,
+                "open_issues": 4153,
                 "owner": "microsoft",
                 "repo": "JARVIS",
-                "stars": 25378,
+                "stars": 25379,
                 "topics": [
                   "deep-learning",
                   "platform",
@@ -7560,10 +7385,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-29T13:44:13Z",
-                "open_issues": 4150,
+                "open_issues": 4153,
                 "owner": "microsoft",
                 "repo": "JARVIS",
-                "stars": 25378,
+                "stars": 25379,
                 "topics": [
                   "deep-learning",
                   "platform",
@@ -7789,7 +7614,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38861,
+                "stars": 38862,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -8534,41 +8359,6 @@
             },
             {
               "node_type": "item",
-              "title": "A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise",
-              "description": "arXiv 2023-12-19 Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
-                "homepage": null,
-                "id": 642642539,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 115,
-                "owner": "BradyFU",
-                "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18042,
-                "topics": [
-                  "chain-of-thought",
-                  "in-context-learning",
-                  "instruction-following",
-                  "instruction-tuning",
-                  "large-language-models",
-                  "large-vision-language-model",
-                  "large-vision-language-models",
-                  "multi-modality",
-                  "multimodal-chain-of-thought",
-                  "multimodal-in-context-learning",
-                  "multimodal-instruction-tuning",
-                  "multimodal-large-language-models",
-                  "visual-instruction-tuning"
-                ]
-              },
-              "first_seen": "2026-08-28T22:15:28.776Z"
-            },
-            {
-              "node_type": "item",
               "title": "BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models",
               "description": "arXiv 2023-12-05 Github",
               "children": [],
@@ -8876,7 +8666,7 @@
                 "open_issues": 3,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2926,
+                "stars": 2928,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -9069,41 +8859,6 @@
             },
             {
               "node_type": "item",
-              "title": "MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models",
-              "description": "arXiv 2023-06-23 Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
-                "homepage": null,
-                "id": 642642539,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 115,
-                "owner": "BradyFU",
-                "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18042,
-                "topics": [
-                  "chain-of-thought",
-                  "in-context-learning",
-                  "instruction-following",
-                  "instruction-tuning",
-                  "large-language-models",
-                  "large-vision-language-model",
-                  "large-vision-language-models",
-                  "multi-modality",
-                  "multimodal-chain-of-thought",
-                  "multimodal-in-context-learning",
-                  "multimodal-instruction-tuning",
-                  "multimodal-large-language-models",
-                  "visual-instruction-tuning"
-                ]
-              },
-              "first_seen": "2026-08-28T22:15:28.776Z"
-            },
-            {
-              "node_type": "item",
               "title": "LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models",
               "description": "arXiv 2023-06-15 Github",
               "children": [],
@@ -9230,41 +8985,6 @@
                 "repo": "r1_reward",
                 "stars": 294,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T22:15:28.776Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Aligning Multimodal LLM with Human Preference: A Survey",
-              "description": "arXiv 2025-03-23 Github -",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
-                "homepage": null,
-                "id": 642642539,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 115,
-                "owner": "BradyFU",
-                "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18042,
-                "topics": [
-                  "chain-of-thought",
-                  "in-context-learning",
-                  "instruction-following",
-                  "instruction-tuning",
-                  "large-language-models",
-                  "large-vision-language-model",
-                  "large-vision-language-models",
-                  "multi-modality",
-                  "multimodal-chain-of-thought",
-                  "multimodal-in-context-learning",
-                  "multimodal-instruction-tuning",
-                  "multimodal-large-language-models",
-                  "visual-instruction-tuning"
-                ]
               },
               "first_seen": "2026-08-28T22:15:28.776Z"
             },
@@ -11210,41 +10930,6 @@
             },
             {
               "node_type": "item",
-              "title": "MME",
-              "description": "MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models Link A comprehensive MLLM Evaluation benchmark",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
-                "homepage": null,
-                "id": 642642539,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 115,
-                "owner": "BradyFU",
-                "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18042,
-                "topics": [
-                  "chain-of-thought",
-                  "in-context-learning",
-                  "instruction-following",
-                  "instruction-tuning",
-                  "large-language-models",
-                  "large-vision-language-model",
-                  "large-vision-language-models",
-                  "multi-modality",
-                  "multimodal-chain-of-thought",
-                  "multimodal-in-context-learning",
-                  "multimodal-instruction-tuning",
-                  "multimodal-large-language-models",
-                  "visual-instruction-tuning"
-                ]
-              },
-              "first_seen": "2026-08-28T22:15:28.776Z"
-            },
-            {
-              "node_type": "item",
               "title": "LVLM-eHub",
               "description": "LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models Link An evaluation platform for MLLMs",
               "children": [],
@@ -11445,7 +11130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:50:54.687Z",
+    "last_updated": "2026-10-03T04:28:12.621Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
@@ -11454,7 +11139,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-01T02:35:51Z",
-      "open_issues": 115,
+      "open_issues": 116,
       "owner": "BradyFU",
       "repo": "Awesome-Multimodal-Large-Language-Models",
       "stars": 18042,
